@@ -1,6 +1,6 @@
 # Azure Cleanup Script
 
-This Python script helps you clean up unused resources in your Azure subscription to prevent exceeding your FDPOAzureBudget. It performs the following tasks:
+This Python script helps you clean up unused resources in your Azure subscription to prevent exceeding your limited budget. It performs the following tasks:
 
 - Scans and deletes unattached Network Interface Cards (NICs)
 - Scans and deletes unattached managed disks
